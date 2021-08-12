@@ -1,7 +1,9 @@
-#### **konnichiwa! 👋, I'm _Jide_.**
-#### **I'm currently learning how to code 💻 and stuff.**
-#### **You'll find stuffs I do here.** 
-#### **Sayounara 🤚.**
+<pre>
+  konnichiwa! 👋, I'm <i>Jide.</i>
+    I'm currently learning how to code 💻 and stuff.
+      You'll find stuffs I do here.
+        Odabo 🤚.
+</pre>
 
 <!--
 **JideOgunlana/jideOgunlana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
