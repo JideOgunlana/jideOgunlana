@@ -1,5 +1,5 @@
 <pre>
-  konnichiwa! 👋, I'm <i>Jide.</i>
+  Hi! 👋, I'm <i>Jide.</i>
     I'm currently learning how to code 💻 and stuff.
       You'll find stuffs I do here.
         Odabo 🤚.
