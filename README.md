@@ -1,8 +1,7 @@
 <pre>
   Hi! 👋, I'm <i>Jide.</i>
-    I'm currently learning how to code 💻 and stuff.
-      You'll find stuffs I do here.
-        Odabo 🤚.
+    I'm currently learning some programming concepts,
+      and how they are applied.
 </pre>
 
 <!--
