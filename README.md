@@ -1,6 +1,6 @@
 <pre>
   Hi! 👋, I'm <i>Jide.</i>
-    I'm currently learning some programming concepts,
+    I'm currently learning some programming,
       and how they are applied.
 </pre>
 
