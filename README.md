@@ -9,7 +9,7 @@
 <p> Tech stack </p>
 <blockquote>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=c,cpp,js,react,git,css,sass,docker" />
+     <img src="https://skillicons.dev/icons?i=c,cpp,js,react,git,css,sass,jquery,docker" />
     </a>
 </blockquote>
 
