@@ -9,9 +9,14 @@
 <p> Tech stack </p>
 <blockquote>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=c,cpp,js,react,git,css,sass,jquery,docker" />
+     <img src="https://skillicons.dev/icons?i=c,cpp,js,react,git,css,sass,jquery,docker,bash" />
     </a>
 </blockquote>
+<div align="left">
+  <a href="https://github.com/JideOgunlana">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JideOgunlana&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JideOgunlana&layout=compact&langs_count=7&theme=nord"/>
+</div>
 
 
 <!--
