@@ -1,7 +1,7 @@
 
 <pre>
     Hi! 👋, I'm <i>Jide.</i>
-        🔭 I’m currently working on <a href="https://42.fr/en/the-program/innovative-learning/" target="_blank" >School 42</a> projects at the 42 Heilbronn campus
+        🔭 I’m currently working on <a href="https://42.fr/en/the-program/innovative-learning/" target="_blank" >School 42</a> projects at the <a href="https://www.42heilbronn.de/en/">42 Heilbronn</a> campus
             🌱 I’m currently learning C++
                 👯 I'm looking to collaborate on software development projects (interest in <b>WEB</b>),
                    where I can gain hands-on experience, practice clean code, and follow best development practices.
