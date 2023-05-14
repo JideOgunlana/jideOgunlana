@@ -1,7 +1,7 @@
 <pre>
-  Hi! 👋, I'm <i>Jide.</i>
-    I'm currently learning some programming concepts,
-      and how they are applied.
+    Hi! 👋, I'm <i>Jide.</i>
+        🔭 I’m currently working on School 42 projects
+            🌱 I’m currently learning C++
 </pre>
 
 <!--
