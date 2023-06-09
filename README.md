@@ -5,7 +5,7 @@ Hi! 👋, I'm <i>Jide.</i>
 🔭 I’m currently working on <a href="https://42.fr/en/the-program/innovative-learning/" target="_blank" >School 42</a> projects at the <a href="https://www.42heilbronn.de/en/">42 Heilbronn</a> campus
 
 🌱 I am working on a project focused on expanding my knowledge in system administration through 
-   the utilization of Docker. <a href="https://github.com/JideOgunlana/42_Inception"> <img src="https://img.icons8.com/?size=512&id=20839&format=png" alt="link" width="25px" /> </a>
+   the utilization of Docker. <a href="https://github.com/JideOgunlana/42_Inception"><img src="https://img.icons8.com/?size=512&id=20839&format=png" alt="link" width="25px" /></a>
    
 👯 I'm looking to collaborate on software development projects (interest in <b>WEB</b>),
    where I can gain hands-on experience, practice clean code, and follow best dev practices.
