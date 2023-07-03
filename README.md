@@ -7,7 +7,7 @@ Hi! 👋, I'm <i>Jide.</i>
 🌱 I am working on a project focused on expanding my knowledge in system administration through 
    the utilization of Docker. <a href="https://github.com/JideOgunlana/42_Inception"><img src="https://img.icons8.com/?size=512&id=20839&format=png" alt="link" width="25px" /></a>
    
-👯 I'm looking to collaborate on software development projects (interest in <b>WEB</b>),
+👯 I'm looking to collaborate on software development projects,
    where I can gain hands-on experience, practice clean code, and follow best dev practices.
 </pre>
 <p> Tech stack </p>
