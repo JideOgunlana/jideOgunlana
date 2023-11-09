@@ -9,7 +9,7 @@ Hi! 👋, I'm <i>Jide.</i>
 <p> Tech stack </p>
 <blockquote>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=c,cpp,js,react,git,css,sass,jquery,docker,bash" />
+     <img src="https://skillicons.dev/icons?i=c,cpp,js,react,git,css,jquery,docker,bash" />
     </a>
 </blockquote>
 
