@@ -3,7 +3,6 @@
 Hi! 👋, I'm <i>Jide.</i>
 
 🔭 I’m currently studying &commat; <a href="https://www.42heilbronn.de/en/">42 Heilbronn</a>
-   View my <a href="http://jideogunlana.live/">portfolio</a>
 
    
 </pre>
