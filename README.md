@@ -11,7 +11,9 @@ Hi! 👋, I'm <i>Jide.</i>
    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,js,react,git,css,jquery,docker,bash" />
    </a>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/OpenUI5_logo_horizontal_blue.svg" width="150" />
+   <a href="https://openui5.org">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/OpenUI5_logo_horizontal_blue.svg" width="150" />
+   </a>
 </blockquote>
 
 
