@@ -8,9 +8,10 @@ Hi! 👋, I'm <i>Jide.</i>
 </pre>
 <p> Tech stack </p>
 <blockquote>
-    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=c,cpp,js,react,git,css,jquery,docker,bash" />
-    </a>
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,js,react,git,css,jquery,docker,bash" />
+   </a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/OpenUI5_logo_horizontal_blue.svg" width="150" />
 </blockquote>
 
 
