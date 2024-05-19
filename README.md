@@ -4,8 +4,8 @@ Hi! 👋, I'm <i>Jide.</i>
 
 🔭 I’m currently studying &commat; <a href="https://www.42heilbronn.de/en/">42 Heilbronn</a>
 
-🌱 I am presently working in a team to develop a web application for a Pong game, employing a technology stack comprising:
-    React, Django, PostgreSQL, orchestrated within a Docker container.
+🌱 I am presently working in a team to develop a web application for a Pong game, 
+    using React, Django, PostgreSQL, orchestrated within a Docker container.
 
    
 </pre>
