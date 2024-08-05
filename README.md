@@ -1,6 +1,9 @@
 
 <pre>
 Hi! 👋, I'm <i>Jide.</i>
+<ul>
+   <li>🌱 I'm learning Typescript and Node.js at the moment</li>
+</ul>
    
 </pre>
 <p> Tech stack </p>
