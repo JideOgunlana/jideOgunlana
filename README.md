@@ -11,7 +11,11 @@ Hi! 👋, I'm <i>Jide.</i>
          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/OpenUI5_logo_horizontal_blue.svg" width="150" /><br />
       </a>
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /><br />
-      <img src="https://skillicons.dev/icons?i=docker,bash,jest" />
+      <img src="https://skillicons.dev/icons?i=docker,bash,git" /><br />
+      <img src="https://skillicons.dev/icons?i=jest" /> &nbsp;
+      <a href="https://qunitjs.com/">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/QUnit_logo.svg/1920px-QUnit_logo.svg.png" width="150" /><br />
+      </a>
    </a>
 </blockquote>
 
