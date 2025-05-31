@@ -1,6 +1,6 @@
 
 <pre>
-Hi! 👋, I'm <i>Jide.</i>
+Hi! 👋🏾, I'm <i>Jide.</i>
 </pre>
 <p> Tech stack </p>
 <blockquote>
