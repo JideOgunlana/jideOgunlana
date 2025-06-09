@@ -2,7 +2,7 @@
 <pre>
 Hi! 👋🏾, I'm <i>Jide.</i>
 </pre>
-<p> Tech stack </p>
+<p> Tech Stack - <small><i> through my journey in S/W dev.</i></smal> </p>
 <blockquote>
    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" /><br />
