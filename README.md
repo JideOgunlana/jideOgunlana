@@ -6,7 +6,7 @@ Hi! 👋🏾, I'm <i>Jide.</i>
 <blockquote>
    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" /><br />
-      <img src="https://skillicons.dev/icons?i=react,angular,jquery" />
+      <img src="https://skillicons.dev/icons?i=react,angular,vue" />
       <a href="https://openui5.org">
          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/OpenUI5_logo_horizontal_blue.svg" width="150" /><br />
       </a>
